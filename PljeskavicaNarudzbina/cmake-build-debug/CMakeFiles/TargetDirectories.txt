@@ -1,0 +1,3 @@
+C:/Users/lukak/CLionProjects/PljeskavicaNarudzbina/cmake-build-debug/CMakeFiles/PljeskavicaNarudzbina.dir
+C:/Users/lukak/CLionProjects/PljeskavicaNarudzbina/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukak/CLionProjects/PljeskavicaNarudzbina/cmake-build-debug/CMakeFiles/rebuild_cache.dir
